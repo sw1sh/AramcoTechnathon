@@ -1,5 +1,9 @@
+Presentation:
+https://prezi.com/view/I2ommyT1A9hqjBLr2kiO/
+
 # Predicting gas properties
 [Version 1](Lev/pred.csv)
+
 [Version 2](CNS_gas_test.csv)
 
 # Geochemistry impact
